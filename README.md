@@ -22,4 +22,5 @@ Useless Columns: getting rid of the 'SaleDate', 'PropertyAddress' and 'OwnerAddr
 Final Check: simply taking a final look of the updated and cleaned table.
 
 Results
+
 After all those manipulation and cleaning procedures, the original dataset, which initially consisted of 56477 rows, ends up in a table format, including 56373 rows. In conclusion, we can confidently claim that we cleaned the dataset efficiently enough and brought in a format suitable for future analysis, by only missing 104 rows or the 0.002% of the raw data.
